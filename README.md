@@ -1,6 +1,6 @@
 # Arcaea Mod Time Build (This just log process)
 
-# Global 4.0.255 (not 4.0.255c)
+// Global 4.0.255 (not 4.0.255c)
 
 - Bypass checksum songlist, packlist, unlocks
 
