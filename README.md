@@ -10,7 +10,7 @@
 
 - Remove Tempestissimo in songlist
 
-- Enable red-line sencecontrol (Bug)
+- Enable red-line sencecontrol
 
 - Unlock all Story Mode (Bug only F-8 story not opened)
 
